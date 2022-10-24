@@ -11,10 +11,12 @@ Sixième projet du parcours développeur web chez OpenClassrooms. L'objectif est
 ```bash
 https://www.figma.com/file/Q3yNeD7WTK9QHDldg9vaRl/UI-Design-FishEye-FR
 ```
-
 - Les notes de réunion détaillant les principales fonctionnalités et les exigences techniques à mettre en oeuvre
 - Des exemples de photos et de vidéos de FishEye à utiliser pour la conception des pages
 - Des exemples de données au format JSON, à utiliser pour créer les différentes pages des photographes de façon dynamique.
+```bash
+https://github.com/OpenClassrooms-Student-Center/Front-End-Fisheye/blob/main/data/photographers.json
+```
 - Les couleurs pour ce projet sont : Primaire #901C1C - #D3573C. Secondaire #D3573C - #525252, #FAFAFA, #901C1C
 
 
