@@ -18,8 +18,10 @@ https://www.figma.com/file/Q3yNeD7WTK9QHDldg9vaRl/UI-Design-FishEye-FR
 https://github.com/OpenClassrooms-Student-Center/Front-End-Fisheye/blob/main/data/photographers.json
 ```
 - Les couleurs pour ce projet sont : 
-- Primaire #901C1C - #D3573C. 
--Secondaire #D3573C - #525252, #FAFAFA, #901C1C
+100. Primaire
+       - #901C1C - #D3573C. 
+200. Secondaire
+       - #D3573C - #525252, #FAFAFA, #901C1C
 
 
 # Cahier des charges
