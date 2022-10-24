@@ -29,3 +29,18 @@ https://github.com/OpenClassrooms-Student-Center/Front-End-Fisheye/blob/main/dat
 - Le développement devra se faire en HTML, CSS et JavaScript.
 - Tout le code doit être versionné sur GitHub et le site devra être accessible sur
 Github Pages une fois terminé.
+
+101. Page d'acceuil :
+         - Liste de tous les photographes avec leur nom, leur slogan, leur localisation, leur prix/heure et une image miniature de leur choix.
+         - Lorsque l'utilisateur clique sur la vignette d'un photographe, il estamené à sa page.
+         
+102. Page des photographes(le contenu de la page sera généré de manière dynamique en fonction du photographe):       
+         - Affiche une galerie des travaux du photographe.
+         - Les photographes peuvent montrer à la fois des photos et des vidéos.
+         - Chaque média comprend un titre et un nombre de likes.
+         - Les médias peuvent être triés par popularité ou par titre.
+         - Lorsque l'utilisateur clique sur un média, celui-ci doit s'ouvrir dans une lightbox.
+         - Afficher un bouton pour contacter le photographe.
+
+         
+  
